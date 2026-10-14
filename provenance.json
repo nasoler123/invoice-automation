@@ -1,0 +1,76 @@
+[
+  {
+    "id": "E01",
+    "repo": "asesor_virtual_repo",
+    "sha": "23f4456e7e89ed7624beaf0d6336f8435026b957",
+    "path": "functions/procesar_facturas/main.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/23f4456e7e89ed7624beaf0d6336f8435026b957/functions/procesar_facturas/main.py#L32",
+    "startLine": 32,
+    "kind": "Código",
+    "public_path": "evidence/E01.md",
+    "original_excerpt_sha256": "39484eba1fb03252292d5af7fed568e447d2a9550a66c87e5b67b4fa7a8cfa0e",
+    "published_excerpt_sha256": "39484eba1fb03252292d5af7fed568e447d2a9550a66c87e5b67b4fa7a8cfa0e",
+    "redactions": []
+  },
+  {
+    "id": "E02",
+    "repo": "asesor_virtual_repo",
+    "sha": "4c5a86aefa58f5202bdfbe9c52060eeea5d0877a",
+    "path": "functions/procesar_facturas_azure/main.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/4c5a86aefa58f5202bdfbe9c52060eeea5d0877a/functions/procesar_facturas_azure/main.py#L417",
+    "startLine": 417,
+    "kind": "Código",
+    "public_path": "evidence/E02.md",
+    "original_excerpt_sha256": "dc372a635bdf7f18a479541f84e8422a7a3c142cfb205b87b4e052d188541518",
+    "published_excerpt_sha256": "dc372a635bdf7f18a479541f84e8422a7a3c142cfb205b87b4e052d188541518",
+    "redactions": []
+  },
+  {
+    "id": "E03",
+    "repo": "asesor_virtual_repo",
+    "sha": "23f4456e7e89ed7624beaf0d6336f8435026b957",
+    "path": "functions/proceso_validar_fr/main.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/23f4456e7e89ed7624beaf0d6336f8435026b957/functions/proceso_validar_fr/main.py#L328",
+    "startLine": 355,
+    "kind": "Código",
+    "public_path": "evidence/E03.md",
+    "original_excerpt_sha256": "0e578edf6a013f5e51face72d7ab52f2fe6e232fe5d86e03824fbc4c55ac34eb",
+    "published_excerpt_sha256": "0e578edf6a013f5e51face72d7ab52f2fe6e232fe5d86e03824fbc4c55ac34eb",
+    "redactions": []
+  },
+  {
+    "id": "E04",
+    "repo": "asesor_virtual_repo",
+    "sha": "23f4456e7e89ed7624beaf0d6336f8435026b957",
+    "path": "functions/enviar_holded/main.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/23f4456e7e89ed7624beaf0d6336f8435026b957/functions/enviar_holded/main.py#L362",
+    "startLine": 362,
+    "kind": "Código",
+    "public_path": "evidence/E04.md",
+    "original_excerpt_sha256": "cbef59d1d27a16ef8c0ceef2a6f65299f306e2e1f20f3bb35651a4357708571a",
+    "published_excerpt_sha256": "cbef59d1d27a16ef8c0ceef2a6f65299f306e2e1f20f3bb35651a4357708571a",
+    "redactions": []
+  },
+  {
+    "id": "E05",
+    "repo": "asesor_virtual_repo",
+    "sha": "4c5a86aefa58f5202bdfbe9c52060eeea5d0877a",
+    "path": "functions/conciliar_movs/main.py",
+    "url": "https://github.com/nasoler123/asesor_virtual_repo/blob/4c5a86aefa58f5202bdfbe9c52060eeea5d0877a/functions/conciliar_movs/main.py#L305",
+    "startLine": 305,
+    "kind": "Código",
+    "public_path": "evidence/E05.md",
+    "original_excerpt_sha256": "872866186e23fd308da8d5dfe33651a6741ba4a9f551386ae99789e77f755aea",
+    "published_excerpt_sha256": "872866186e23fd308da8d5dfe33651a6741ba4a9f551386ae99789e77f755aea",
+    "redactions": []
+  },
+  {
+    "kind": "runnable sample",
+    "repo": "asesor_virtual_repo",
+    "sha": "23f4456e7e89ed7624beaf0d6336f8435026b957",
+    "path": "functions/proceso_validar_fr/main.py",
+    "extraction": "Funciones check_line_level y approx_equal sin cambios; solo imports typing para aislarlas.",
+    "sample_sha256": "e21844f77183f96e106323aa9259abe578eaee7b3b0b4f54ecd6927c5f87b403",
+    "public_path": "source/invoice_controls.py"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "checks": [
+    {
+      "case": "Factura coherente",
+      "passed": true
+    },
+    {
+      "case": "IVA incoherente",
+      "passed": true
+    },
+    {
+      "case": "Total incoherente",
+      "passed": true
+    },
+    {
+      "case": "Campo ausente",
+      "passed": true
+    },
+    {
+      "case": "Cero válido",
+      "passed": true
+    }
+  ],
+  "passed": 5,
+  "network": "forbidden"
+}

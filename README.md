@@ -12,9 +12,11 @@ Reading an invoice is only the first step. Extracted amounts, tax rates, supplie
 
 **My work.** I built the flow from OCR and normalization to financial validation, supplier/account mapping and preparation for Holded registration and reconciliation. Bank-description matching used historical descriptions, embeddings and cosine similarity. I led the product and technical construction, using AI-assisted development alongside integration and verification.
 
-**Period.** 2024–2025; continued use reported by the founder.
+**Period.** Built in 2024–2025; remains active as of October 2026.
 
-**Project outcome.** Used by several restaurants and an accounting advisory, according to the founder. Invoice volume and time savings have not been quantified.
+**Current use.** The automation remains active: **two restaurants use it recurrently every month** for their invoice-processing workflows.
+
+Usage status reported by the founder on 15 October 2026. Invoice volumes and time savings have not been quantified.
 
 ## What you can inspect here
 

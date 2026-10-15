@@ -6,7 +6,9 @@ OCR, normalización, validación económica y conciliación con Holded.
 
 El pipeline completo depende de Google/Azure, BigQuery y Holded. La demo ejecuta exclusivamente el control original de una línea.
 
-**Resultado del proyecto:** Varios restaurantes y una asesoría; uso actual declarado por Ignacio.
+**Uso actual:** La automatización sigue activa: **dos restaurantes la utilizan de forma recurrente cada mes** para procesar sus facturas.
+
+Construida en 2024–2025 y todavía en uso en octubre de 2026. Estado comunicado por el fundador el 15 de octubre de 2026; el volumen de facturas y el ahorro de tiempo no se han cuantificado.
 
 ## Probar el componente
 
